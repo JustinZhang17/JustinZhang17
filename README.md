@@ -10,5 +10,7 @@
 </p>
 I am a Software Developer who is passionate about entrepreneurial habits, being a pro-active student and worker, computer science, and creating creatives that can simplify a person's life.
 
+
+
 On top of learning from my studies I have an obsession with gaining experience via extracurriculars. I enjoy Hackathons, Cyber Sec Competitions, Taekwondo, Non-profit initiatives, Startups, Longboarding, and Rock Climbing.
 
